@@ -128,6 +128,7 @@
             // 
             LoginPassDb.Location = new Point(99, 384);
             LoginPassDb.Name = "LoginPassDb";
+            LoginPassDb.PasswordChar = '*';
             LoginPassDb.Size = new Size(174, 23);
             LoginPassDb.TabIndex = 6;
             // 
